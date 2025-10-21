@@ -2,7 +2,11 @@
 en este blog se hablara de autos completamente legendarios e iconicos que han taspasado de generacion en generacion y siguen estando como en su primer dia
 
 
+
 <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/073cb87e-3be6-4d1d-b137-737568656188" />
+
+
+
 🏁 BMW M3
 
 El BMW M3 es uno de los automóviles deportivos más emblemáticos del mundo, fabricado por la división BMW M GmbH, una subsidiaria de BMW (Bayerische Motoren Werke AG). Desde su lanzamiento en 1986, el M3 ha representado el equilibrio perfecto entre elegancia, rendimiento y tecnología alemana, convirtiéndose en un referente dentro de la industria automotriz.
@@ -31,6 +35,8 @@ Su motor TwinPower Turbo de 6 cilindros en línea ofrece una aceleración de 0 a
 
 <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/fa8c6a27-503c-4598-8dec-572a375c9ebf" />
 
+
+
 El M3 moderno incluye:
 Transmisión automática M Steptronic de 8 velocidades.
 Modos de conducción configurables (Comfort, Sport, Track).
@@ -41,14 +47,24 @@ Interior digital con pantallas curvas y materiales premium.
 
 El BMW M3 ha sido premiado mundialmente por su ingeniería y desempeño. Es considerado por muchos expertos como uno de los mejores deportivos de producción en serie. Su equilibrio entre potencia, control y lujo lo mantiene como una leyenda viva dentro de la historia automotriz.
 🔧 Curiosidades
+
+
+
 <img width="500" height="716" alt="image" src="https://github.com/user-attachments/assets/b3414e16-7a81-4009-aca0-3452a1de373a" />
+
+
+
 Cada generación del M3 ha sido desarrollada y probada en el circuito de Nürburgring.
 El modelo E30 M3 es uno de los más coleccionables de BMW.
 El M3 GTR, una versión de competición, apareció en el famoso videojuego Need for Speed: Most Wanted (2005).
 
 🧾 Ficha técnica (BMW M3 G80 Competition 2025)
 
+
+
 <img width="1347" height="851" alt="image" src="https://github.com/user-attachments/assets/db61034c-f64a-4750-9f95-ba31056f02fc" />
+
+
 
 Motor: 3.0 L Twin Turbo de 6 cilindros.
 Potencia: 510 CV.
